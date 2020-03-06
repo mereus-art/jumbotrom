@@ -5,7 +5,9 @@
 }
 
 .bg-title {
-    background-image: linear-gradient(to bottom right, #2d3436, #00b894);
+    /*background-image: linear-gradient(to bottom right, #2d3436, #00b894);*/
+    background: url('../img/imagemtec.png') center center no-repeat;
+    background-size: cover;
 }
 
 .text-title {
