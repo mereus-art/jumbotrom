@@ -19,3 +19,9 @@
     font-family: 'Raleway', 'sans-serif';
     font-size: 1.6em;
 }
+
+.footer {
+    background: #b71540;
+    color: black;
+    height: 5em;
+}
