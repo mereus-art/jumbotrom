@@ -1,27 +1,35 @@
-@import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Akronim|Raleway&display=swap');
-.giu {
-    color: aliceblue;
-}
-
-.bg-title {
-    /*background-image: linear-gradient(to bottom right, #2d3436, #00b894);*/
-    background: url('../img/imagemtec.jpg') center center no-repeat;
-    background-size: cover;
-}
-
-.text-title {
-    font-family: 'Akronim', 'cursive';
-    font-size: 6.2em;
-}
-
-.text-js {
-    font-family: 'Raleway', 'sans-serif';
-    font-size: 1.6em;
-}
-
-.footer {
-    background: #b71540;
-    color: black;
-    height: 5em;
-}
+            @import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=Akronim|Raleway&display=swap');
+            .giu {
+                color: aliceblue;
+            }
+            
+            .bg-title {
+                /*background-image: linear-gradient(to bottom right, #2d3436, #00b894);*/
+                background: url('../img/imagem9.jpg') center center no-repeat;
+                background-size: cover;
+            }
+            
+            .text-title {
+                font-family: 'Akronim', 'cursive';
+                font-size: 6.2em;
+            }
+            
+            .text-js {
+                font-family: 'Raleway', 'sans-serif';
+                font-size: 1.6em;
+            }
+            
+            .footer {
+                background: #023d2e;
+                color: rgb(184, 184, 184);
+                height: 5em;
+            }
+            
+            .titulo {
+                color: black;
+            }
+            
+            .menu {
+                background-image: linear-gradient(to bottom right, rgb(44, 38, 38), #147749);
+            }
