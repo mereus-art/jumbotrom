@@ -1,7 +1,5 @@
-            @import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
-            @import url('https://fonts.googleapis.com/css?family=Akronim|Raleway&display=swap');
             .giu {
-                color: aliceblue;
+                color: #f0f8ff;
             }
             
             .bg-title {
@@ -28,6 +26,7 @@
             
             .titulo {
                 color: black;
+                font-family: 'Josefin Sans', sans-serif;
             }
             
             .menu {
